@@ -1,7 +1,6 @@
 'The State Of The Industry: A Deep Dive Into Video Game Sales Trends' is an Internship Project based on Data Analytics with Tableau, done by our Team.
-Team Members:
-Malla Sai Lakshman Karthik
-Sasubilli Rohith
+
+Team Members: Malla Sai Lakshman Karthik, Sasubilli Rohith
 
 This project is done for our Internship based on the 'Data Analytics with Tableau' course conducted by "Smart Internz".
 
